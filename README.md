@@ -1,8 +1,8 @@
 Git is a Version Control System
 
-git --version  :- Is a command to know the git version
+git --version  :- Is a command to know the git version.
 
-git config --list :- Gives us a email registered and some other info
+git config --list :- Gives us a email registered and some other info.
 
 cd file_name :- It changes the directory
 
