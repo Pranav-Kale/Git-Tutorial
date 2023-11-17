@@ -46,3 +46,10 @@ git remote add <nameOfRemote> <link of the Remote>
 git remote rm <nameOf Remote>
 
 git remote rename <oldName> <newName>
+
+## Git Recommended Practices ##
+  make changes
+  git add
+  git commit
+  git pull
+  git push
