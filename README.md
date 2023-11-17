@@ -60,4 +60,5 @@ git remote rename <oldName> <newName>
 
 
 ##Merge conflicts are occured due to multiple collaborators working on the same file.##
+git conflicts are very common scenario 
   
