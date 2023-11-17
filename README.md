@@ -58,5 +58,6 @@ git remote rename <oldName> <newName>
 
   git push
 
-  git git git gigt git git git git
+
+##Merge conflicts are occured due to multiple collaborators working on the same file.##
   
