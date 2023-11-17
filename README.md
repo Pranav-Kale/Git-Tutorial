@@ -30,12 +30,12 @@ git commit :-  registers staging changes to a commit (shift+i  -> "Message" -> e
 
 git log :-  lists down all the commits of the repository
 
-git restore <file> :-  Removes the changes made in the working area
+git restore <file> :-  Removes the changes made in the working area.
 
 git restore --staged <file> :- It removes all the files changes from the staging area to be commited to the working 
 area.(For staging area)
 
- git diff :- It shows us the difference b/w two commits
+ git diff :- It shows us the difference b/w two commits.
  
 git commit -m " "
 
