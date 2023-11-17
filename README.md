@@ -58,5 +58,5 @@ git remote rename <oldName> <newName>
 
   git push
 
-  git git git gigt git git git git
+  git conflicts are very common scenario 
   
