@@ -49,12 +49,13 @@ git remote rename <oldName> <newName>
 
 ## Git Recommended Practices ##
   make changes
-  
+
   git add
 
   git commit
-  
+
   git pull
-  
+
   git push
-  
+
+  git git git gigt git git git git
